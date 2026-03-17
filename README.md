@@ -21,8 +21,8 @@ Dashboard de monitoramento de saúde de ativos industriais com telemetria simula
 ## Rodando localmente
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
 
 Acesse `http://localhost:5173`
